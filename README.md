@@ -1,8 +1,9 @@
-# GISD Repository
-German Index of Socioeconomic Deprivation (GISD)
+Die Veröffentlichung der GISD-Daten ist umgezogen. Das Datenrepositorium finden Sie nun unter folgender URL:
+https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD
 
-This repository contains data of the The German Index of Socioeconomic Deprivation (GISD). With GISD our aims were to develop a regional socioeconomic deprivation index for Germany that (1) can be used to analyse regional socioeconomic inequalities in health and (2) provides a basis for explaining regional health differences in Germany. 
+Der GISD und seine Methodik werden in folgender Publikation im Journal of Health Monitoring empfohlen, in der eine ausführliche Einführung in den GISD erfolgt:
 
-Originally the GISD data archive was submitted to [GESIS Datorium](https://datorium.gesis.org/xmlui/handle/10.7802/1460). But as we plan to update GISD anually when new data from [www.inkar.de](http://www.inkar.de) is available, it will be hosted at github.
+> Michalski N, Reis M, Tetzlaff F, Herber M, Kroll LE, Hövener C, Nowossadeck E, Hoebel J (2022) German Index of Socioeconomic Deprivation (GISD): Revision, Aktualisierung und Anwendungsbeispiele. J Health Monit 7(S5): 2–24. [DOI: 10.25646/10640](https://doi.org/10.25646/10640)
 
-If you need help with GISD please feel free to contact [FG 28 of RKI](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt2/FG28/fg28_node.html) or file an [Issue at GitHub](https://github.com/GISD-FG28/GISD/issues).
+English Version:
+> Michalski N, Reis M, Tetzlaff F, Herber M, Kroll LE et al. (2022) German Index of Socioeconomic Deprivation (GISD): Revision, update and applications. J Health Monit 7(S5): 2–23. [DOI 10.25646/10641](https://doi.org/10.25646/10641)
