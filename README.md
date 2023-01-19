@@ -1,4 +1,5 @@
 Die Veröffentlichung der GISD-Daten ist umgezogen. Das Datenrepositorium finden Sie nun unter folgender URL:
+
 https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD
 
 Der GISD und seine Methodik werden in folgender Publikation im Journal of Health Monitoring empfohlen, in der eine ausführliche Einführung in den GISD erfolgt:
